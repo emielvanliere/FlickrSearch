@@ -1,0 +1,1371 @@
+BCSymbolMap Version: 1.0
++[NSError(MTLModelException) mtl_modelErrorWithException:]
+.str
+_unnamed_cfstring_
+.str.1
+_unnamed_cfstring_.2
+OBJC_CLASSLIST_REFERENCES_$_
+.str.3
+OBJC_METH_VAR_NAME_
+OBJC_SELECTOR_REFERENCES_
+.str.4
+_unnamed_cfstring_.5
+OBJC_CLASSLIST_REFERENCES_$_.6
+OBJC_METH_VAR_NAME_.7
+OBJC_SELECTOR_REFERENCES_.8
+.str.9
+_unnamed_cfstring_.10
+.str.11
+_unnamed_cfstring_.12
+OBJC_METH_VAR_NAME_.13
+OBJC_SELECTOR_REFERENCES_.14
+OBJC_METH_VAR_NAME_.15
+OBJC_SELECTOR_REFERENCES_.16
+OBJC_METH_VAR_NAME_.17
+OBJC_SELECTOR_REFERENCES_.18
+OBJC_CLASSLIST_REFERENCES_$_.19
+OBJC_METH_VAR_NAME_.20
+OBJC_SELECTOR_REFERENCES_.21
+OBJC_CLASSLIST_REFERENCES_$_.22
+OBJC_METH_VAR_NAME_.23
+OBJC_SELECTOR_REFERENCES_.24
+OBJC_CLASS_NAME_
+OBJC_METH_VAR_NAME_.25
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSError_$_MTLModelException
+l_OBJC_$_CATEGORY_NSError_$_MTLModelException
+OBJC_LABEL_CATEGORY_$
+Apple LLVM version 7.3.0 (clang-703.0.31)
++[NSError(MTLModelException) mtl_modelErrorWithException:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSError+MTLModelException.m
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle
++[NSValueTransformer(MTLPredefinedTransformerAdditions) load]
+__61+[NSValueTransformer(MTLPredefinedTransformerAdditions) load]_block_invoke
+__61+[NSValueTransformer(MTLPredefinedTransformerAdditions) load]_block_invoke_2
+__61+[NSValueTransformer(MTLPredefinedTransformerAdditions) load]_block_invoke_3
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_arrayMappingTransformerWithTransformer:]
+__100+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_arrayMappingTransformerWithTransformer:]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+__100+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_arrayMappingTransformerWithTransformer:]_block_invoke.141
+__copy_helper_block_.146
+__destroy_helper_block_.147
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_validatingTransformerForClass:]
+__91+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_validatingTransformerForClass:]_block_invoke
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:defaultValue:reverseDefaultValue:]
+__132+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:defaultValue:reverseDefaultValue:]_block_invoke
+__copy_helper_block_.171
+__destroy_helper_block_.172
+__132+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:defaultValue:reverseDefaultValue:]_block_invoke.175
+__Block_byref_object_copy_
+__Block_byref_object_dispose_
+__132+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:defaultValue:reverseDefaultValue:]_block_invoke.176
+__copy_helper_block_.178
+__destroy_helper_block_.179
+__copy_helper_block_.184
+__destroy_helper_block_.185
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_dateTransformerWithDateFormat:calendar:locale:timeZone:defaultDate:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_dateTransformerWithDateFormat:locale:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_numberTransformerWithNumberStyle:locale:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_transformerWithFormatter:forObjectClass:]
+__101+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_transformerWithFormatter:forObjectClass:]_block_invoke
+__copy_helper_block_.228
+__destroy_helper_block_.229
+__101+[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_transformerWithFormatter:forObjectClass:]_block_invoke.232
+__copy_helper_block_.239
+__destroy_helper_block_.240
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_JSONDictionaryTransformerWithModelClass:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_JSONArrayTransformerWithModelClass:]
+OBJC_CLASSLIST_REFERENCES_$_.3
+OBJC_METH_VAR_NAME_.4
+OBJC_SELECTOR_REFERENCES_.5
+.str.15
+_unnamed_cfstring_.16
+OBJC_CLASSLIST_REFERENCES_$_.25
+OBJC_METH_VAR_NAME_.26
+OBJC_SELECTOR_REFERENCES_.27
+.str.28
+_unnamed_cfstring_.29
+.str.30
+__block_descriptor_tmp
+__block_literal_global
+.str.31
+_unnamed_cfstring_.32
+.str.33
+_unnamed_cfstring_.34
+OBJC_METH_VAR_NAME_.35
+OBJC_SELECTOR_REFERENCES_.36
+.str.37
+__block_descriptor_tmp.38
+__block_literal_global.39
+OBJC_METH_VAR_NAME_.40
+OBJC_SELECTOR_REFERENCES_.41
+OBJC_CLASSLIST_REFERENCES_$_.42
+OBJC_METH_VAR_NAME_.43
+OBJC_SELECTOR_REFERENCES_.44
+OBJC_CLASSLIST_REFERENCES_$_.45
+.str.46
+_unnamed_cfstring_.47
+.str.48
+_unnamed_cfstring_.49
+OBJC_METH_VAR_NAME_.50
+OBJC_SELECTOR_REFERENCES_.51
+.str.52
+__block_descriptor_tmp.53
+__block_literal_global.54
+OBJC_METH_VAR_NAME_.55
+OBJC_SELECTOR_REFERENCES_.56
+.str.57
+OBJC_METH_VAR_NAME_.58
+OBJC_SELECTOR_REFERENCES_.59
+.str.60
+_unnamed_cfstring_.61
+OBJC_CLASSLIST_REFERENCES_$_.62
+OBJC_METH_VAR_NAME_.63
+OBJC_SELECTOR_REFERENCES_.64
+.str.65
+_unnamed_cfstring_.66
+.str.67
+_unnamed_cfstring_.68
+OBJC_METH_VAR_NAME_.69
+OBJC_SELECTOR_REFERENCES_.70
+OBJC_CLASSLIST_REFERENCES_$_.71
+.str.72
+_unnamed_cfstring_.73
+.str.74
+_unnamed_cfstring_.75
+OBJC_CLASSLIST_REFERENCES_$_.76
+OBJC_METH_VAR_NAME_.77
+OBJC_SELECTOR_REFERENCES_.78
+OBJC_METH_VAR_NAME_.79
+OBJC_SELECTOR_REFERENCES_.80
+OBJC_METH_VAR_NAME_.81
+OBJC_SELECTOR_REFERENCES_.82
+OBJC_CLASSLIST_REFERENCES_$_.83
+OBJC_METH_VAR_NAME_.84
+OBJC_SELECTOR_REFERENCES_.85
+OBJC_METH_VAR_NAME_.86
+OBJC_SELECTOR_REFERENCES_.87
+OBJC_METH_VAR_NAME_.88
+OBJC_METH_VAR_NAME_.89
+OBJC_METH_VAR_NAME_.90
+OBJC_METH_VAR_TYPE_.91
+OBJC_METH_VAR_TYPE_.92
+OBJC_METH_VAR_NAME_.93
+OBJC_METH_VAR_TYPE_.94
+OBJC_METH_VAR_NAME_.95
+OBJC_METH_VAR_TYPE_.96
+OBJC_METH_VAR_NAME_.97
+OBJC_METH_VAR_TYPE_.98
+OBJC_METH_VAR_NAME_.99
+OBJC_METH_VAR_TYPE_.100
+OBJC_METH_VAR_NAME_.101
+OBJC_METH_VAR_TYPE_.102
+OBJC_METH_VAR_TYPE_.103
+OBJC_METH_VAR_NAME_.104
+OBJC_METH_VAR_NAME_.105
+OBJC_METH_VAR_TYPE_.106
+OBJC_METH_VAR_NAME_.107
+OBJC_METH_VAR_TYPE_.108
+OBJC_METH_VAR_NAME_.109
+OBJC_METH_VAR_NAME_.110
+OBJC_METH_VAR_TYPE_.111
+OBJC_METH_VAR_NAME_.112
+OBJC_METH_VAR_NAME_.113
+OBJC_METH_VAR_TYPE_.114
+OBJC_METH_VAR_NAME_.115
+OBJC_METH_VAR_TYPE_.116
+OBJC_METH_VAR_NAME_.117
+OBJC_METH_VAR_NAME_.118
+OBJC_METH_VAR_NAME_.119
+OBJC_METH_VAR_TYPE_.120
+OBJC_METH_VAR_NAME_.121
+OBJC_CLASS_NAME_.122
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_.123
+OBJC_PROP_NAME_ATTR_.124
+OBJC_PROP_NAME_ATTR_.125
+OBJC_PROP_NAME_ATTR_.126
+OBJC_PROP_NAME_ATTR_.127
+OBJC_PROP_NAME_ATTR_.128
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_MTLTransformerErrorHandling
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_MTLTransformerErrorHandling
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_MTLTransformerErrorHandling
+l_OBJC_$_PROTOCOL_METHOD_TYPES_MTLTransformerErrorHandling
+l_OBJC_PROTOCOL_$_MTLTransformerErrorHandling
+l_OBJC_LABEL_PROTOCOL_$_MTLTransformerErrorHandling
+l_OBJC_PROTOCOL_REFERENCE_$_MTLTransformerErrorHandling
+OBJC_SELECTOR_REFERENCES_.129
+OBJC_SELECTOR_REFERENCES_.130
+.str.131
+_unnamed_cfstring_.132
+.str.133
+_unnamed_cfstring_.134
+OBJC_METH_VAR_NAME_.135
+OBJC_SELECTOR_REFERENCES_.136
+.str.137
+__block_descriptor_tmp.138
+OBJC_METH_VAR_NAME_.139
+OBJC_SELECTOR_REFERENCES_.140
+OBJC_SELECTOR_REFERENCES_.142
+OBJC_SELECTOR_REFERENCES_.143
+OBJC_METH_VAR_NAME_.144
+OBJC_SELECTOR_REFERENCES_.145
+__block_descriptor_tmp.148
+OBJC_METH_VAR_NAME_.149
+OBJC_SELECTOR_REFERENCES_.150
+.str.151
+_unnamed_cfstring_.152
+.str.153
+_unnamed_cfstring_.154
+.str.155
+_unnamed_cfstring_.156
+.str.157
+OBJC_CLASS_NAME_.158
+__block_descriptor_tmp.159
+.str.160
+_unnamed_cfstring_.161
+OBJC_CLASSLIST_REFERENCES_$_.162
+OBJC_METH_VAR_NAME_.163
+OBJC_SELECTOR_REFERENCES_.164
+OBJC_METH_VAR_NAME_.165
+OBJC_SELECTOR_REFERENCES_.166
+.str.167
+_unnamed_cfstring_.168
+OBJC_METH_VAR_NAME_.169
+OBJC_SELECTOR_REFERENCES_.170
+.str.173
+__block_descriptor_tmp.174
+OBJC_SELECTOR_REFERENCES_.177
+.str.180
+__block_descriptor_tmp.181
+OBJC_METH_VAR_NAME_.182
+OBJC_SELECTOR_REFERENCES_.183
+__block_descriptor_tmp.186
+OBJC_METH_VAR_NAME_.187
+OBJC_SELECTOR_REFERENCES_.188
+OBJC_METH_VAR_NAME_.189
+OBJC_SELECTOR_REFERENCES_.190
+.str.191
+_unnamed_cfstring_.192
+OBJC_CLASSLIST_REFERENCES_$_.193
+OBJC_METH_VAR_NAME_.194
+OBJC_SELECTOR_REFERENCES_.195
+OBJC_METH_VAR_NAME_.196
+OBJC_SELECTOR_REFERENCES_.197
+OBJC_METH_VAR_NAME_.198
+OBJC_SELECTOR_REFERENCES_.199
+OBJC_METH_VAR_NAME_.200
+OBJC_SELECTOR_REFERENCES_.201
+OBJC_METH_VAR_NAME_.202
+OBJC_SELECTOR_REFERENCES_.203
+OBJC_METH_VAR_NAME_.204
+OBJC_SELECTOR_REFERENCES_.205
+OBJC_METH_VAR_NAME_.206
+OBJC_SELECTOR_REFERENCES_.207
+OBJC_CLASSLIST_REFERENCES_$_.208
+OBJC_METH_VAR_NAME_.209
+OBJC_SELECTOR_REFERENCES_.210
+OBJC_METH_VAR_NAME_.211
+OBJC_SELECTOR_REFERENCES_.212
+OBJC_CLASSLIST_REFERENCES_$_.213
+OBJC_METH_VAR_NAME_.214
+OBJC_SELECTOR_REFERENCES_.215
+.str.216
+_unnamed_cfstring_.217
+.str.218
+_unnamed_cfstring_.219
+.str.220
+_unnamed_cfstring_.221
+.str.222
+_unnamed_cfstring_.223
+OBJC_METH_VAR_NAME_.224
+OBJC_SELECTOR_REFERENCES_.225
+.str.226
+_unnamed_cfstring_.227
+OBJC_CLASS_NAME_.230
+__block_descriptor_tmp.231
+.str.233
+_unnamed_cfstring_.234
+.str.235
+_unnamed_cfstring_.236
+OBJC_METH_VAR_NAME_.237
+OBJC_SELECTOR_REFERENCES_.238
+OBJC_CLASS_NAME_.241
+__block_descriptor_tmp.242
+OBJC_CLASSLIST_REFERENCES_$_.243
+OBJC_METH_VAR_NAME_.244
+OBJC_SELECTOR_REFERENCES_.245
+OBJC_METH_VAR_NAME_.246
+OBJC_SELECTOR_REFERENCES_.247
+OBJC_CLASS_NAME_.248
+OBJC_METH_VAR_NAME_.249
+OBJC_METH_VAR_TYPE_.250
+OBJC_METH_VAR_NAME_.251
+OBJC_METH_VAR_TYPE_.252
+OBJC_METH_VAR_NAME_.253
+OBJC_METH_VAR_TYPE_.254
+OBJC_METH_VAR_TYPE_.255
+OBJC_METH_VAR_NAME_.256
+OBJC_METH_VAR_TYPE_.257
+OBJC_METH_VAR_NAME_.258
+OBJC_METH_VAR_TYPE_.259
+OBJC_METH_VAR_NAME_.260
+OBJC_METH_VAR_TYPE_.261
+OBJC_METH_VAR_TYPE_.262
+OBJC_METH_VAR_NAME_.263
+OBJC_METH_VAR_NAME_.264
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSValueTransformer_$_MTLPredefinedTransformerAdditions
+l_OBJC_$_CATEGORY_NSValueTransformer_$_MTLPredefinedTransformerAdditions
+OBJC_LABEL_NONLAZY_CATEGORY_$
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_JSONArrayTransformerWithModelClass:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSValueTransformer+MTLPredefinedTransformerAdditions.m
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_JSONDictionaryTransformerWithModelClass:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_transformerWithFormatter:forObjectClass:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_numberTransformerWithNumberStyle:locale:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_dateTransformerWithDateFormat:locale:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_dateTransformerWithDateFormat:calendar:locale:timeZone:defaultDate:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_valueMappingTransformerWithDictionary:defaultValue:reverseDefaultValue:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_validatingTransformerForClass:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) mtl_arrayMappingTransformerWithTransformer:]
++[NSValueTransformer(MTLPredefinedTransformerAdditions) load]
++[NSDictionary(MTLMappingAdditions) mtl_identityPropertyMapWithModel:]
+OBJC_METH_VAR_TYPE_.1
+OBJC_METH_VAR_NAME_.2
+OBJC_METH_VAR_TYPE_.3
+OBJC_METH_VAR_TYPE_.4
+OBJC_METH_VAR_NAME_.5
+OBJC_METH_VAR_TYPE_.6
+OBJC_METH_VAR_TYPE_.8
+OBJC_METH_VAR_TYPE_.9
+OBJC_METH_VAR_NAME_.10
+OBJC_METH_VAR_NAME_.11
+OBJC_METH_VAR_TYPE_.12
+OBJC_METH_VAR_TYPE_.14
+OBJC_METH_VAR_TYPE_.16
+OBJC_METH_VAR_NAME_.18
+OBJC_METH_VAR_TYPE_.19
+OBJC_METH_VAR_TYPE_.21
+OBJC_METH_VAR_NAME_.22
+OBJC_METH_VAR_TYPE_.23
+OBJC_METH_VAR_NAME_.24
+OBJC_METH_VAR_TYPE_.25
+OBJC_METH_VAR_TYPE_.27
+OBJC_METH_VAR_NAME_.28
+OBJC_METH_VAR_NAME_.29
+OBJC_METH_VAR_TYPE_.30
+OBJC_METH_VAR_NAME_.31
+OBJC_METH_VAR_TYPE_.32
+OBJC_METH_VAR_NAME_.33
+OBJC_METH_VAR_NAME_.34
+OBJC_METH_VAR_TYPE_.35
+OBJC_METH_VAR_NAME_.36
+OBJC_METH_VAR_NAME_.37
+OBJC_METH_VAR_TYPE_.38
+OBJC_METH_VAR_NAME_.39
+OBJC_METH_VAR_TYPE_.40
+OBJC_METH_VAR_NAME_.41
+OBJC_METH_VAR_NAME_.42
+OBJC_METH_VAR_TYPE_.44
+OBJC_METH_VAR_NAME_.45
+OBJC_CLASS_NAME_.46
+OBJC_PROP_NAME_ATTR_.47
+OBJC_PROP_NAME_ATTR_.48
+OBJC_PROP_NAME_ATTR_.49
+OBJC_PROP_NAME_ATTR_.50
+OBJC_PROP_NAME_ATTR_.51
+OBJC_PROP_NAME_ATTR_.52
+OBJC_METH_VAR_NAME_.53
+OBJC_METH_VAR_TYPE_.54
+OBJC_CLASS_NAME_.55
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+l_OBJC_PROTOCOL_$_NSCopying
+l_OBJC_LABEL_PROTOCOL_$_NSCopying
+l_OBJC_$_PROTOCOL_REFS_MTLModel
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_MTLModel
+l_OBJC_$_PROTOCOL_CLASS_METHODS_MTLModel
+OBJC_PROP_NAME_ATTR_.56
+OBJC_PROP_NAME_ATTR_.57
+l_OBJC_$_PROP_LIST_MTLModel
+l_OBJC_$_PROTOCOL_METHOD_TYPES_MTLModel
+l_OBJC_PROTOCOL_$_MTLModel
+l_OBJC_LABEL_PROTOCOL_$_MTLModel
+l_OBJC_PROTOCOL_REFERENCE_$_MTLModel
+__PRETTY_FUNCTION__.+[NSDictionary(MTLMappingAdditions) mtl_identityPropertyMapWithModel:]
+.str.61
+_unnamed_cfstring_.62
+OBJC_CLASSLIST_REFERENCES_$_.63
+OBJC_METH_VAR_NAME_.64
+OBJC_SELECTOR_REFERENCES_.65
+.str.66
+_unnamed_cfstring_.67
+.str.68
+_unnamed_cfstring_.69
+OBJC_METH_VAR_NAME_.70
+OBJC_SELECTOR_REFERENCES_.71
+OBJC_SELECTOR_REFERENCES_.72
+OBJC_METH_VAR_NAME_.73
+OBJC_SELECTOR_REFERENCES_.74
+OBJC_CLASSLIST_REFERENCES_$_.75
+OBJC_METH_VAR_NAME_.76
+OBJC_SELECTOR_REFERENCES_.77
+OBJC_CLASS_NAME_.78
+OBJC_METH_VAR_TYPE_.80
+l_OBJC_$_CATEGORY_CLASS_METHODS_NSDictionary_$_MTLMappingAdditions
+l_OBJC_$_CATEGORY_NSDictionary_$_MTLMappingAdditions
++[NSDictionary(MTLMappingAdditions) mtl_identityPropertyMapWithModel:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSDictionary+MTLMappingAdditions.m
+OBJC_METH_VAR_NAME_.1
+OBJC_SELECTOR_REFERENCES_.2
+OBJC_METH_VAR_NAME_.3
+OBJC_SELECTOR_REFERENCES_.4
+OBJC_SELECTOR_REFERENCES_.6
+OBJC_METH_VAR_NAME_.9
+OBJC_SELECTOR_REFERENCES_.10
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+MTLSelectorWithCapitalizedKeyPattern
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLReflection.m
+MTLSelectorWithKeyPattern
+-[NSDictionary(MTLJSONKeyPath) mtl_valueForJSONKeyPath:success:error:]
+OBJC_CLASSLIST_REFERENCES_$_.5
+OBJC_METH_VAR_NAME_.6
+OBJC_SELECTOR_REFERENCES_.7
+OBJC_METH_VAR_NAME_.8
+OBJC_SELECTOR_REFERENCES_.9
+OBJC_CLASSLIST_REFERENCES_$_.10
+OBJC_SELECTOR_REFERENCES_.12
+.str.13
+_unnamed_cfstring_.14
+.str.20
+_unnamed_cfstring_.21
+OBJC_SELECTOR_REFERENCES_.23
+OBJC_SELECTOR_REFERENCES_.25
+OBJC_CLASSLIST_REFERENCES_$_.26
+OBJC_METH_VAR_NAME_.27
+OBJC_SELECTOR_REFERENCES_.28
+OBJC_SELECTOR_REFERENCES_.30
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSDictionary_$_MTLJSONKeyPath
+l_OBJC_$_CATEGORY_NSDictionary_$_MTLJSONKeyPath
+-[NSDictionary(MTLJSONKeyPath) mtl_valueForJSONKeyPath:success:error:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSDictionary+MTLJSONKeyPath.m
++[MTLModel(NSCoding) modelVersion]
++[MTLModel(NSCoding) encodingBehaviorsByPropertyKey]
+__52+[MTLModel(NSCoding) encodingBehaviorsByPropertyKey]_block_invoke
++[MTLModel(NSCoding) allowedSecureCodingClassesByPropertyKey]
+__61+[MTLModel(NSCoding) allowedSecureCodingClassesByPropertyKey]_block_invoke
+__61+[MTLModel(NSCoding) allowedSecureCodingClassesByPropertyKey]_block_invoke_2
+-[MTLModel(NSCoding) decodeValueForKey:withCoder:modelVersion:]
+coderRequiresSecureCoding
+-[MTLModel(NSCoding) initWithCoder:]
+verifyAllowedClassesByPropertyKey
+-[MTLModel(NSCoding) encodeWithCoder:]
+__38-[MTLModel(NSCoding) encodeWithCoder:]_block_invoke
++[MTLModel(NSCoding) supportsSecureCoding]
++[MTLModel(OldArchiveSupport) dictionaryValueFromArchivedExternalRepresentation:version:]
+__encodablePropertyKeysForClass_block_invoke
+OBJC_CLASSLIST_REFERENCES_$_.11
+.str.12
+OBJC_CLASSLIST_REFERENCES_$_.17
+OBJC_SELECTOR_REFERENCES_.19
+.str.24
+OBJC_SELECTOR_REFERENCES_.29
+MTLModelCachedAllowedClassesKey
+OBJC_METH_VAR_NAME_.30
+OBJC_SELECTOR_REFERENCES_.31
+OBJC_METH_VAR_NAME_.32
+OBJC_SELECTOR_REFERENCES_.33
+.str.34
+__block_descriptor_tmp.35
+OBJC_SELECTOR_REFERENCES_.37
+OBJC_CLASS_NAME_.38
+__block_descriptor_tmp.39
+OBJC_CLASSLIST_REFERENCES_$_.40
+OBJC_SELECTOR_REFERENCES_.42
+OBJC_CLASSLIST_REFERENCES_$_.43
+OBJC_METH_VAR_NAME_.44
+OBJC_SELECTOR_REFERENCES_.45
+.str.50
+_unnamed_cfstring_.51
+.str.53
+OBJC_METH_VAR_NAME_.54
+OBJC_SELECTOR_REFERENCES_.55
+OBJC_METH_VAR_NAME_.56
+OBJC_SELECTOR_REFERENCES_.57
+OBJC_METH_VAR_NAME_.60
+OBJC_SELECTOR_REFERENCES_.61
+.str.62
+_unnamed_cfstring_.63
+OBJC_CLASSLIST_REFERENCES_$_.64
+OBJC_METH_VAR_NAME_.65
+OBJC_SELECTOR_REFERENCES_.66
+OBJC_METH_VAR_NAME_.67
+OBJC_SELECTOR_REFERENCES_.68
+.str.71
+_unnamed_cfstring_.72
+.str.75
+_unnamed_cfstring_.76
+.str.79
+_unnamed_cfstring_.80
+.str.84
+_unnamed_cfstring_.85
+.str.88
+_unnamed_cfstring_.89
+OBJC_SELECTOR_REFERENCES_.91
+.str.92
+_unnamed_cfstring_.93
+OBJC_METH_VAR_NAME_.94
+OBJC_SELECTOR_REFERENCES_.95
+OBJC_METH_VAR_NAME_.96
+OBJC_SELECTOR_REFERENCES_.97
+OBJC_CLASSLIST_REFERENCES_$_.98
+OBJC_SELECTOR_REFERENCES_.100
+OBJC_SELECTOR_REFERENCES_.102
+OBJC_METH_VAR_NAME_.103
+OBJC_SELECTOR_REFERENCES_.104
+.str.105
+_unnamed_cfstring_.106
+.str.107
+_unnamed_cfstring_.108
+.str.109
+__block_descriptor_tmp.110
+OBJC_METH_VAR_NAME_.111
+OBJC_SELECTOR_REFERENCES_.112
+OBJC_CLASS_NAME_.113
+OBJC_METH_VAR_NAME_.114
+OBJC_METH_VAR_TYPE_.115
+OBJC_METH_VAR_NAME_.116
+OBJC_METH_VAR_TYPE_.117
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_MTLModel_$_NSCoding
+OBJC_METH_VAR_TYPE_.118
+OBJC_METH_VAR_TYPE_.119
+OBJC_METH_VAR_NAME_.120
+OBJC_METH_VAR_TYPE_.121
+l_OBJC_$_CATEGORY_CLASS_METHODS_MTLModel_$_NSCoding
+OBJC_METH_VAR_TYPE_.122
+OBJC_METH_VAR_TYPE_.123
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+l_OBJC_PROTOCOL_$_NSCoding
+l_OBJC_LABEL_PROTOCOL_$_NSCoding
+l_OBJC_CATEGORY_PROTOCOLS_$_MTLModel_$_NSCoding
+l_OBJC_$_CATEGORY_MTLModel_$_NSCoding
+OBJC_CLASS_NAME_.124
+OBJC_METH_VAR_TYPE_.125
+l_OBJC_$_CATEGORY_CLASS_METHODS_MTLModel_$_OldArchiveSupport
+l_OBJC_$_CATEGORY_MTLModel_$_OldArchiveSupport
+OBJC_METH_VAR_NAME_.126
+OBJC_SELECTOR_REFERENCES_.127
+OBJC_CLASSLIST_REFERENCES_$_.128
+OBJC_METH_VAR_NAME_.129
+OBJC_METH_VAR_NAME_.131
+OBJC_SELECTOR_REFERENCES_.132
+OBJC_METH_VAR_NAME_.133
+OBJC_SELECTOR_REFERENCES_.134
+OBJC_CLASSLIST_REFERENCES_$_.135
+.str.136
+_unnamed_cfstring_.137
+OBJC_METH_VAR_NAME_.138
+OBJC_SELECTOR_REFERENCES_.139
+__block_descriptor_tmp.140
+__block_literal_global.141
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLModel+NSCoding.m
+encodablePropertyKeysForClass
++[MTLModel(OldArchiveSupport) dictionaryValueFromArchivedExternalRepresentation:version:]
++[MTLModel(NSCoding) supportsSecureCoding]
+-[MTLModel(NSCoding) encodeWithCoder:]
+-[MTLModel(NSCoding) initWithCoder:]
+-[MTLModel(NSCoding) decodeValueForKey:withCoder:modelVersion:]
++[MTLModel(NSCoding) allowedSecureCodingClassesByPropertyKey]
++[MTLModel(NSCoding) encodingBehaviorsByPropertyKey]
++[MTLModel(NSCoding) modelVersion]
+MTLEqualObjects
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSObject+MTLComparisonAdditions.m
++[MTLModel generateAndCacheStorageBehaviors]
++[MTLModel modelWithDictionary:error:]
+-[MTLModel init]
+-[MTLModel initWithDictionary:error:]
+MTLValidateAndSetValue
++[MTLModel enumeratePropertiesUsingBlock:]
+__42+[MTLModel enumeratePropertiesUsingBlock:]_block_invoke
++[MTLModel propertyKeys]
+__24+[MTLModel propertyKeys]_block_invoke
++[MTLModel transitoryPropertyKeys]
++[MTLModel permanentPropertyKeys]
+-[MTLModel dictionaryValue]
++[MTLModel storageBehaviorForPropertyWithKey:]
+__46+[MTLModel storageBehaviorForPropertyWithKey:]_block_invoke
+-[MTLModel mergeValueForKey:fromModel:]
+-[MTLModel mergeValuesForKeysFromModel:]
+-[MTLModel validate:]
+-[MTLModel copyWithZone:]
+-[MTLModel description]
+-[MTLModel hash]
+-[MTLModel isEqual:]
+MTLModelCachedTransitoryPropertyKeysKey
+MTLModelCachedPermanentPropertyKeysKey
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_SELECTOR_REFERENCES_.26
+MTLModelCachedPropertyKeysKey
+OBJC_CLASSLIST_REFERENCES_$_.27
+OBJC_CLASS_NAME_.31
+__block_descriptor_tmp.32
+OBJC_SELECTOR_REFERENCES_.34
+OBJC_SELECTOR_REFERENCES_.38
+OBJC_SELECTOR_REFERENCES_.40
+OBJC_SELECTOR_REFERENCES_.46
+OBJC_METH_VAR_NAME_.47
+OBJC_SELECTOR_REFERENCES_.48
+OBJC_CLASS_NAME_.49
+__block_descriptor_tmp.50
+OBJC_METH_VAR_NAME_.51
+OBJC_SELECTOR_REFERENCES_.52
+.str.54
+OBJC_CLASSLIST_REFERENCES_$_.55
+.str.58
+_unnamed_cfstring_.59
+OBJC_METH_VAR_NAME_.62
+OBJC_SELECTOR_REFERENCES_.63
+.str.64
+OBJC_METH_VAR_NAME_.66
+OBJC_SELECTOR_REFERENCES_.67
+OBJC_METH_VAR_NAME_.68
+OBJC_SELECTOR_REFERENCES_.69
+OBJC_METH_VAR_NAME_.72
+OBJC_SELECTOR_REFERENCES_.73
+OBJC_METH_VAR_NAME_.74
+OBJC_SELECTOR_REFERENCES_.75
+OBJC_METH_VAR_NAME_.78
+OBJC_SELECTOR_REFERENCES_.79
+OBJC_METH_VAR_NAME_.80
+OBJC_SELECTOR_REFERENCES_.81
+OBJC_METH_VAR_NAME_.82
+OBJC_SELECTOR_REFERENCES_.83
+OBJC_SELECTOR_REFERENCES_.89
+OBJC_CLASS_NAME_.92
+OBJC_METH_VAR_TYPE_.95
+OBJC_METH_VAR_TYPE_.97
+l_OBJC_$_CLASS_METHODS_MTLModel
+OBJC_METH_VAR_TYPE_.99
+OBJC_METH_VAR_TYPE_.104
+OBJC_METH_VAR_TYPE_.105
+OBJC_METH_VAR_NAME_.108
+OBJC_METH_VAR_TYPE_.109
+OBJC_METH_VAR_TYPE_.113
+OBJC_METH_VAR_NAME_.122
+OBJC_METH_VAR_NAME_.124
+OBJC_METH_VAR_NAME_.125
+OBJC_METH_VAR_TYPE_.126
+OBJC_METH_VAR_NAME_.127
+OBJC_METH_VAR_TYPE_.128
+OBJC_METH_VAR_TYPE_.130
+OBJC_CLASS_NAME_.132
+OBJC_PROP_NAME_ATTR_.133
+OBJC_PROP_NAME_ATTR_.134
+OBJC_PROP_NAME_ATTR_.135
+OBJC_PROP_NAME_ATTR_.136
+OBJC_PROP_NAME_ATTR_.137
+OBJC_PROP_NAME_ATTR_.138
+OBJC_METH_VAR_TYPE_.140
+OBJC_CLASS_NAME_.141
+OBJC_PROP_NAME_ATTR_.142
+OBJC_PROP_NAME_ATTR_.143
+l_OBJC_CLASS_PROTOCOLS_$_MTLModel
+l_OBJC_METACLASS_RO_$_MTLModel
+OBJC_METH_VAR_TYPE_.145
+l_OBJC_$_INSTANCE_METHODS_MTLModel
+l_OBJC_$_PROP_LIST_MTLModel.146
+l_OBJC_CLASS_RO_$_MTLModel
+OBJC_METH_VAR_NAME_.147
+OBJC_SELECTOR_REFERENCES_.148
+.str.149
+_unnamed_cfstring_.150
+OBJC_CLASSLIST_REFERENCES_$_.151
+OBJC_METH_VAR_NAME_.152
+OBJC_SELECTOR_REFERENCES_.153
+OBJC_LABEL_CLASS_$
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLModel.m
+-[MTLModel isEqual:]
+-[MTLModel hash]
+-[MTLModel description]
+-[MTLModel copyWithZone:]
+-[MTLModel validate:]
+-[MTLModel mergeValuesForKeysFromModel:]
+-[MTLModel mergeValueForKey:fromModel:]
++[MTLModel storageBehaviorForPropertyWithKey:]
+-[MTLModel dictionaryValue]
++[MTLModel permanentPropertyKeys]
++[MTLModel transitoryPropertyKeys]
++[MTLModel propertyKeys]
++[MTLModel enumeratePropertiesUsingBlock:]
+-[MTLModel initWithDictionary:error:]
+-[MTLModel init]
++[MTLModel modelWithDictionary:error:]
++[MTLModel generateAndCacheStorageBehaviors]
++[MTLJSONAdapter modelOfClass:fromJSONDictionary:error:]
++[MTLJSONAdapter modelsOfClass:fromJSONArray:error:]
++[MTLJSONAdapter JSONDictionaryFromModel:error:]
++[MTLJSONAdapter JSONArrayFromModels:error:]
+-[MTLJSONAdapter init]
+-[MTLJSONAdapter initWithModelClass:]
+-[MTLJSONAdapter JSONDictionaryFromModel:error:]
+__48-[MTLJSONAdapter JSONDictionaryFromModel:error:]_block_invoke
+__48-[MTLJSONAdapter JSONDictionaryFromModel:error:]_block_invoke_2
+-[MTLJSONAdapter modelFromJSONDictionary:error:]
++[MTLJSONAdapter valueTransformersForModelClass:]
+__49+[MTLJSONAdapter valueTransformersForModelClass:]_block_invoke
+-[MTLJSONAdapter JSONAdapterForModelClass:error:]
+-[MTLJSONAdapter serializablePropertyKeys:forModel:]
++[MTLJSONAdapter transformerForModelPropertiesOfClass:]
++[MTLJSONAdapter transformerForModelPropertiesOfObjCType:]
+-[MTLJSONAdapter modelClass]
+-[MTLJSONAdapter JSONKeyPathsByPropertyKey]
+-[MTLJSONAdapter valueTransformersByPropertyKey]
+-[MTLJSONAdapter JSONAdaptersByModelClass]
+-[MTLJSONAdapter .cxx_destruct]
++[MTLJSONAdapter(ValueTransformers) dictionaryTransformerWithModelClass:]
+__73+[MTLJSONAdapter(ValueTransformers) dictionaryTransformerWithModelClass:]_block_invoke
+__copy_helper_block_.290
+__destroy_helper_block_.291
+__73+[MTLJSONAdapter(ValueTransformers) dictionaryTransformerWithModelClass:]_block_invoke.295
+__copy_helper_block_.300
+__destroy_helper_block_.301
++[MTLJSONAdapter(ValueTransformers) arrayTransformerWithModelClass:]
+__68+[MTLJSONAdapter(ValueTransformers) arrayTransformerWithModelClass:]_block_invoke
+__copy_helper_block_.313
+__destroy_helper_block_.314
+__68+[MTLJSONAdapter(ValueTransformers) arrayTransformerWithModelClass:]_block_invoke.317
+__copy_helper_block_.323
+__destroy_helper_block_.324
++[MTLJSONAdapter(ValueTransformers) NSURLJSONTransformer]
++[MTLJSONAdapter(Deprecated) JSONArrayFromModels:]
++[MTLJSONAdapter(Deprecated) JSONDictionaryFromModel:]
+OBJC_METH_VAR_NAME_.12
+OBJC_SELECTOR_REFERENCES_.13
+.str.14
+_unnamed_cfstring_.15
+.str.16
+_unnamed_cfstring_.17
+OBJC_CLASSLIST_REFERENCES_$_.20
+.str.21
+_unnamed_cfstring_.22
+OBJC_CLASSLIST_REFERENCES_$_.28
+OBJC_CLASSLIST_REFERENCES_$_.31
+OBJC_SELECTOR_REFERENCES_.35
+OBJC_METH_VAR_NAME_.38
+OBJC_SELECTOR_REFERENCES_.39
+OBJC_SELECTOR_REFERENCES_.43
+.str.44
+.str.47
+_unnamed_cfstring_.48
+OBJC_CLASSLIST_REFERENCES_$_.49
+_unnamed_cfstring_.53
+_unnamed_cfstring_.55
+OBJC_METH_VAR_TYPE_.65
+OBJC_METH_VAR_TYPE_.67
+OBJC_METH_VAR_TYPE_.68
+OBJC_METH_VAR_TYPE_.70
+OBJC_METH_VAR_TYPE_.71
+OBJC_METH_VAR_TYPE_.73
+OBJC_METH_VAR_TYPE_.74
+OBJC_METH_VAR_NAME_.75
+OBJC_METH_VAR_TYPE_.76
+OBJC_METH_VAR_TYPE_.77
+OBJC_METH_VAR_TYPE_.79
+OBJC_METH_VAR_TYPE_.83
+OBJC_CLASS_NAME_.84
+OBJC_METH_VAR_NAME_.85
+OBJC_METH_VAR_TYPE_.86
+OBJC_METH_VAR_TYPE_.87
+OBJC_METH_VAR_TYPE_.90
+OBJC_METH_VAR_NAME_.91
+OBJC_METH_VAR_NAME_.98
+OBJC_METH_VAR_NAME_.106
+OBJC_METH_VAR_TYPE_.110
+OBJC_CLASS_NAME_.116
+OBJC_PROP_NAME_ATTR_.117
+OBJC_PROP_NAME_ATTR_.118
+OBJC_PROP_NAME_ATTR_.119
+OBJC_PROP_NAME_ATTR_.120
+OBJC_PROP_NAME_ATTR_.121
+OBJC_PROP_NAME_ATTR_.122
+OBJC_METH_VAR_NAME_.123
+OBJC_METH_VAR_TYPE_.124
+OBJC_CLASS_NAME_.125
+l_OBJC_$_PROTOCOL_REFS_MTLJSONSerializing
+l_OBJC_$_PROTOCOL_CLASS_METHODS_MTLJSONSerializing
+l_OBJC_$_PROTOCOL_CLASS_METHODS_OPT_MTLJSONSerializing
+l_OBJC_$_PROTOCOL_METHOD_TYPES_MTLJSONSerializing
+l_OBJC_PROTOCOL_$_MTLJSONSerializing
+l_OBJC_LABEL_PROTOCOL_$_MTLJSONSerializing
+l_OBJC_PROTOCOL_REFERENCE_$_MTLJSONSerializing
+OBJC_SELECTOR_REFERENCES_.128
+.str.129
+_unnamed_cfstring_.130
+OBJC_IVAR_$_MTLJSONAdapter._modelClass
+OBJC_SELECTOR_REFERENCES_.133
+OBJC_IVAR_$_MTLJSONAdapter._JSONKeyPathsByPropertyKey
+OBJC_METH_VAR_NAME_.134
+OBJC_SELECTOR_REFERENCES_.135
+OBJC_METH_VAR_NAME_.137
+OBJC_SELECTOR_REFERENCES_.138
+.str.139
+_unnamed_cfstring_.140
+OBJC_METH_VAR_NAME_.141
+.str.143
+_unnamed_cfstring_.144
+OBJC_METH_VAR_NAME_.145
+OBJC_SELECTOR_REFERENCES_.146
+OBJC_IVAR_$_MTLJSONAdapter._valueTransformersByPropertyKey
+OBJC_CLASSLIST_REFERENCES_$_.147
+OBJC_METH_VAR_NAME_.148
+OBJC_SELECTOR_REFERENCES_.149
+OBJC_IVAR_$_MTLJSONAdapter._JSONAdaptersByModelClass
+.str.150
+_unnamed_cfstring_.151
+.str.152
+_unnamed_cfstring_.153
+OBJC_METH_VAR_NAME_.154
+OBJC_SELECTOR_REFERENCES_.155
+OBJC_CLASSLIST_REFERENCES_$_.156
+OBJC_METH_VAR_NAME_.157
+OBJC_SELECTOR_REFERENCES_.158
+OBJC_METH_VAR_NAME_.159
+OBJC_SELECTOR_REFERENCES_.160
+OBJC_METH_VAR_NAME_.161
+OBJC_SELECTOR_REFERENCES_.162
+OBJC_SELECTOR_REFERENCES_.163
+OBJC_METH_VAR_NAME_.164
+OBJC_SELECTOR_REFERENCES_.165
+OBJC_METH_VAR_NAME_.166
+OBJC_SELECTOR_REFERENCES_.167
+OBJC_CLASSLIST_REFERENCES_$_.168
+OBJC_METH_VAR_NAME_.171
+OBJC_SELECTOR_REFERENCES_.172
+OBJC_METH_VAR_NAME_.173
+OBJC_SELECTOR_REFERENCES_.174
+OBJC_CLASSLIST_REFERENCES_$_.175
+OBJC_METH_VAR_NAME_.176
+OBJC_SELECTOR_REFERENCES_.178
+OBJC_METH_VAR_NAME_.179
+OBJC_SELECTOR_REFERENCES_.180
+OBJC_SELECTOR_REFERENCES_.181
+.str.184
+_unnamed_cfstring_.185
+OBJC_METH_VAR_NAME_.186
+OBJC_SELECTOR_REFERENCES_.187
+OBJC_METH_VAR_NAME_.188
+OBJC_SELECTOR_REFERENCES_.189
+OBJC_METH_VAR_NAME_.190
+OBJC_SELECTOR_REFERENCES_.191
+OBJC_METH_VAR_NAME_.192
+OBJC_SELECTOR_REFERENCES_.193
+.str.194
+OBJC_METH_VAR_NAME_.195
+OBJC_SELECTOR_REFERENCES_.196
+.str.197
+__block_descriptor_tmp.198
+OBJC_METH_VAR_NAME_.199
+OBJC_SELECTOR_REFERENCES_.200
+.str.202
+_unnamed_cfstring_.203
+.str.204
+_unnamed_cfstring_.205
+.str.206
+_unnamed_cfstring_.207
+OBJC_METH_VAR_NAME_.208
+OBJC_SELECTOR_REFERENCES_.209
+OBJC_METH_VAR_NAME_.210
+OBJC_SELECTOR_REFERENCES_.211
+OBJC_METH_VAR_NAME_.212
+OBJC_SELECTOR_REFERENCES_.213
+OBJC_SELECTOR_REFERENCES_.220
+OBJC_METH_VAR_NAME_.221
+OBJC_SELECTOR_REFERENCES_.222
+OBJC_SELECTOR_REFERENCES_.223
+OBJC_SELECTOR_REFERENCES_.224
+.str.225
+OBJC_METH_VAR_NAME_.226
+OBJC_SELECTOR_REFERENCES_.227
+OBJC_SELECTOR_REFERENCES_.228
+OBJC_METH_VAR_NAME_.229
+OBJC_SELECTOR_REFERENCES_.230
+.str.231
+OBJC_CLASS_NAME_.232
+__block_descriptor_tmp.233
+OBJC_METH_VAR_NAME_.235
+OBJC_SELECTOR_REFERENCES_.236
+OBJC_CLASSLIST_REFERENCES_$_.239
+OBJC_CLASSLIST_REFERENCES_$_.240
+OBJC_METH_VAR_NAME_.241
+OBJC_SELECTOR_REFERENCES_.242
+OBJC_METH_VAR_NAME_.243
+OBJC_SELECTOR_REFERENCES_.244
+OBJC_CLASSLIST_REFERENCES_$_.245
+OBJC_METH_VAR_NAME_.248
+OBJC_SELECTOR_REFERENCES_.249
+OBJC_METH_VAR_NAME_.250
+OBJC_SELECTOR_REFERENCES_.251
+.str.252
+_unnamed_cfstring_.253
+.str.254
+OBJC_METH_VAR_NAME_.255
+OBJC_SELECTOR_REFERENCES_.256
+OBJC_CLASS_NAME_.257
+OBJC_METH_VAR_TYPE_.258
+OBJC_METH_VAR_NAME_.259
+l_OBJC_$_CLASS_METHODS_MTLJSONAdapter
+l_OBJC_METACLASS_RO_$_MTLJSONAdapter
+OBJC_CLASS_NAME_.263
+OBJC_METH_VAR_TYPE_.264
+OBJC_METH_VAR_TYPE_.265
+OBJC_METH_VAR_NAME_.266
+OBJC_METH_VAR_TYPE_.267
+l_OBJC_$_INSTANCE_METHODS_MTLJSONAdapter
+OBJC_METH_VAR_NAME_.268
+OBJC_METH_VAR_TYPE_.269
+OBJC_METH_VAR_NAME_.270
+OBJC_METH_VAR_TYPE_.271
+OBJC_METH_VAR_NAME_.272
+OBJC_METH_VAR_NAME_.273
+OBJC_METH_VAR_TYPE_.274
+l_OBJC_$_INSTANCE_VARIABLES_MTLJSONAdapter
+OBJC_PROP_NAME_ATTR_.275
+OBJC_PROP_NAME_ATTR_.276
+OBJC_PROP_NAME_ATTR_.277
+OBJC_PROP_NAME_ATTR_.278
+OBJC_PROP_NAME_ATTR_.279
+OBJC_PROP_NAME_ATTR_.280
+OBJC_PROP_NAME_ATTR_.281
+OBJC_PROP_NAME_ATTR_.282
+l_OBJC_$_PROP_LIST_MTLJSONAdapter
+l_OBJC_CLASS_RO_$_MTLJSONAdapter
+.str.283
+_unnamed_cfstring_.284
+OBJC_CLASSLIST_REFERENCES_$_.285
+.str.286
+_unnamed_cfstring_.287
+.str.288
+_unnamed_cfstring_.289
+.str.292
+OBJC_CLASS_NAME_.293
+__block_descriptor_tmp.294
+.str.296
+_unnamed_cfstring_.297
+.str.298
+_unnamed_cfstring_.299
+.str.302
+OBJC_CLASS_NAME_.303
+__block_descriptor_tmp.304
+OBJC_METH_VAR_NAME_.305
+OBJC_SELECTOR_REFERENCES_.306
+.str.307
+_unnamed_cfstring_.308
+.str.309
+_unnamed_cfstring_.310
+.str.311
+_unnamed_cfstring_.312
+.str.315
+__block_descriptor_tmp.316
+.str.318
+_unnamed_cfstring_.319
+OBJC_CLASSLIST_REFERENCES_$_.320
+.str.321
+_unnamed_cfstring_.322
+__block_descriptor_tmp.325
+OBJC_CLASS_NAME_.326
+OBJC_METH_VAR_NAME_.327
+OBJC_METH_VAR_NAME_.328
+l_OBJC_$_CATEGORY_CLASS_METHODS_MTLJSONAdapter_$_ValueTransformers
+l_OBJC_$_CATEGORY_MTLJSONAdapter_$_ValueTransformers
+OBJC_SELECTOR_REFERENCES_.329
+OBJC_CLASS_NAME_.330
+OBJC_METH_VAR_NAME_.331
+OBJC_METH_VAR_NAME_.332
+l_OBJC_$_CATEGORY_CLASS_METHODS_MTLJSONAdapter_$_Deprecated
+OBJC_PROP_NAME_ATTR_.333
+OBJC_PROP_NAME_ATTR_.334
+l_OBJC_$_PROP_LIST_MTLJSONAdapter_$_Deprecated
+l_OBJC_$_CATEGORY_MTLJSONAdapter_$_Deprecated
++[MTLJSONAdapter(Deprecated) JSONDictionaryFromModel:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLJSONAdapter.m
++[MTLJSONAdapter(Deprecated) JSONArrayFromModels:]
++[MTLJSONAdapter(ValueTransformers) NSURLJSONTransformer]
++[MTLJSONAdapter(ValueTransformers) arrayTransformerWithModelClass:]
++[MTLJSONAdapter(ValueTransformers) dictionaryTransformerWithModelClass:]
+-[MTLJSONAdapter .cxx_destruct]
+-[MTLJSONAdapter JSONAdaptersByModelClass]
+-[MTLJSONAdapter valueTransformersByPropertyKey]
+-[MTLJSONAdapter JSONKeyPathsByPropertyKey]
+-[MTLJSONAdapter modelClass]
++[MTLJSONAdapter transformerForModelPropertiesOfObjCType:]
++[MTLJSONAdapter transformerForModelPropertiesOfClass:]
+-[MTLJSONAdapter serializablePropertyKeys:forModel:]
+-[MTLJSONAdapter JSONAdapterForModelClass:error:]
++[MTLJSONAdapter valueTransformersForModelClass:]
+-[MTLJSONAdapter modelFromJSONDictionary:error:]
+-[MTLJSONAdapter JSONDictionaryFromModel:error:]
+-[MTLJSONAdapter initWithModelClass:]
+-[MTLJSONAdapter init]
++[MTLJSONAdapter JSONArrayFromModels:error:]
++[MTLJSONAdapter JSONDictionaryFromModel:error:]
++[MTLJSONAdapter modelsOfClass:fromJSONArray:error:]
++[MTLJSONAdapter modelOfClass:fromJSONDictionary:error:]
+-[NSArray(MTLManipulationAdditions) mtl_firstObject]
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingObject:]
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingFirstObject]
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingLastObject]
+OBJC_METH_VAR_TYPE_.11
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSArray_$_MTLManipulationAdditions
+OBJC_PROP_NAME_ATTR_.14
+l_OBJC_$_PROP_LIST_NSArray_$_MTLManipulationAdditions
+l_OBJC_$_CATEGORY_NSArray_$_MTLManipulationAdditions
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingLastObject]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSArray+MTLManipulationAdditions.m
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingFirstObject]
+-[NSArray(MTLManipulationAdditions) mtl_arrayByRemovingObject:]
+-[NSArray(MTLManipulationAdditions) mtl_firstObject]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLTransformerErrorHandling.m
+-[NSDictionary(MTLManipulationAdditions) mtl_dictionaryByAddingEntriesFromDictionary:]
+-[NSDictionary(MTLManipulationAdditions) mtl_dictionaryByRemovingValuesForKeys:]
+-[NSDictionary(MTLManipulationAdditions_Deprecated) mtl_dictionaryByRemovingEntriesWithKeys:]
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSDictionary_$_MTLManipulationAdditions
+l_OBJC_$_CATEGORY_NSDictionary_$_MTLManipulationAdditions
+OBJC_CLASS_NAME_.10
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSDictionary_$_MTLManipulationAdditions_Deprecated
+l_OBJC_$_CATEGORY_NSDictionary_$_MTLManipulationAdditions_Deprecated
+-[NSDictionary(MTLManipulationAdditions_Deprecated) mtl_dictionaryByRemovingEntriesWithKeys:]
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSDictionary+MTLManipulationAdditions.m
+-[NSDictionary(MTLManipulationAdditions) mtl_dictionaryByRemovingValuesForKeys:]
+-[NSDictionary(MTLManipulationAdditions) mtl_dictionaryByAddingEntriesFromDictionary:]
++[MTLValueTransformer transformerUsingForwardBlock:]
++[MTLValueTransformer transformerUsingReversibleBlock:]
++[MTLValueTransformer transformerUsingForwardBlock:reverseBlock:]
+-[MTLValueTransformer initWithForwardBlock:reverseBlock:]
++[MTLValueTransformer allowsReverseTransformation]
++[MTLValueTransformer transformedValueClass]
+-[MTLValueTransformer transformedValue:]
+-[MTLValueTransformer transformedValue:success:error:]
+-[MTLValueTransformer forwardBlock]
+-[MTLValueTransformer reverseBlock]
+-[MTLValueTransformer .cxx_destruct]
+-[MTLReversibleValueTransformer initWithForwardBlock:reverseBlock:]
++[MTLReversibleValueTransformer allowsReverseTransformation]
+-[MTLReversibleValueTransformer reverseTransformedValue:]
+-[MTLReversibleValueTransformer reverseTransformedValue:success:error:]
++[MTLValueTransformer(Deprecated) transformerWithBlock:]
+__56+[MTLValueTransformer(Deprecated) transformerWithBlock:]_block_invoke
++[MTLValueTransformer(Deprecated) reversibleTransformerWithBlock:]
+__66+[MTLValueTransformer(Deprecated) reversibleTransformerWithBlock:]_block_invoke
+__copy_helper_block_.98
+__destroy_helper_block_.99
++[MTLValueTransformer(Deprecated) reversibleTransformerWithForwardBlock:reverseBlock:]
+__86+[MTLValueTransformer(Deprecated) reversibleTransformerWithForwardBlock:reverseBlock:]_block_invoke
+__copy_helper_block_.102
+__destroy_helper_block_.103
+__86+[MTLValueTransformer(Deprecated) reversibleTransformerWithForwardBlock:reverseBlock:]_block_invoke.105
+__copy_helper_block_.106
+__destroy_helper_block_.107
+.str.8
+OBJC_CLASSLIST_REFERENCES_$_.9
+OBJC_SELECTOR_REFERENCES_.11
+_unnamed_cfstring_.13
+OBJC_METH_VAR_NAME_.16
+OBJC_SELECTOR_REFERENCES_.17
+OBJC_IVAR_$_MTLValueTransformer._forwardBlock
+OBJC_IVAR_$_MTLValueTransformer._reverseBlock
+OBJC_METH_VAR_TYPE_.29
+OBJC_METH_VAR_TYPE_.31
+OBJC_METH_VAR_TYPE_.33
+l_OBJC_$_CLASS_METHODS_MTLValueTransformer
+OBJC_CLASS_NAME_.37
+OBJC_METH_VAR_TYPE_.39
+OBJC_METH_VAR_TYPE_.41
+OBJC_METH_VAR_TYPE_.43
+OBJC_METH_VAR_TYPE_.45
+OBJC_METH_VAR_NAME_.46
+OBJC_METH_VAR_TYPE_.47
+OBJC_METH_VAR_NAME_.48
+OBJC_METH_VAR_NAME_.49
+OBJC_METH_VAR_TYPE_.50
+OBJC_METH_VAR_NAME_.52
+OBJC_METH_VAR_TYPE_.53
+OBJC_METH_VAR_TYPE_.55
+OBJC_METH_VAR_NAME_.57
+OBJC_METH_VAR_TYPE_.58
+OBJC_METH_VAR_NAME_.59
+OBJC_METH_VAR_TYPE_.61
+OBJC_METH_VAR_TYPE_.63
+OBJC_CLASS_NAME_.69
+OBJC_PROP_NAME_ATTR_.70
+OBJC_PROP_NAME_ATTR_.71
+OBJC_PROP_NAME_ATTR_.72
+OBJC_PROP_NAME_ATTR_.73
+OBJC_PROP_NAME_ATTR_.74
+OBJC_PROP_NAME_ATTR_.75
+l_OBJC_CLASS_PROTOCOLS_$_MTLValueTransformer
+l_OBJC_METACLASS_RO_$_MTLValueTransformer
+OBJC_CLASS_NAME_.76
+OBJC_METH_VAR_TYPE_.78
+OBJC_METH_VAR_TYPE_.81
+l_OBJC_$_INSTANCE_METHODS_MTLValueTransformer
+OBJC_METH_VAR_NAME_.83
+OBJC_METH_VAR_TYPE_.84
+l_OBJC_$_INSTANCE_VARIABLES_MTLValueTransformer
+OBJC_PROP_NAME_ATTR_.86
+OBJC_PROP_NAME_ATTR_.87
+OBJC_PROP_NAME_ATTR_.88
+OBJC_PROP_NAME_ATTR_.89
+l_OBJC_$_PROP_LIST_MTLValueTransformer
+l_OBJC_CLASS_RO_$_MTLValueTransformer
+.str.90
+_unnamed_cfstring_.91
+OBJC_CLASSLIST_SUP_REFS_$_.92
+OBJC_SELECTOR_REFERENCES_.93
+OBJC_CLASS_NAME_.94
+l_OBJC_$_CLASS_METHODS_MTLReversibleValueTransformer
+l_OBJC_METACLASS_RO_$_MTLReversibleValueTransformer
+l_OBJC_$_INSTANCE_METHODS_MTLReversibleValueTransformer
+l_OBJC_CLASS_RO_$_MTLReversibleValueTransformer
+.str.96
+__block_descriptor_tmp.100
+OBJC_SELECTOR_REFERENCES_.101
+__block_descriptor_tmp.104
+__block_descriptor_tmp.108
+OBJC_CLASS_NAME_.109
+l_OBJC_$_CATEGORY_CLASS_METHODS_MTLValueTransformer_$_Deprecated
+l_OBJC_$_CATEGORY_MTLValueTransformer_$_Deprecated
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/MTLValueTransformer.m
++[MTLValueTransformer(Deprecated) reversibleTransformerWithForwardBlock:reverseBlock:]
++[MTLValueTransformer(Deprecated) reversibleTransformerWithBlock:]
++[MTLValueTransformer(Deprecated) transformerWithBlock:]
+-[MTLReversibleValueTransformer reverseTransformedValue:success:error:]
+-[MTLReversibleValueTransformer reverseTransformedValue:]
++[MTLReversibleValueTransformer allowsReverseTransformation]
+-[MTLReversibleValueTransformer initWithForwardBlock:reverseBlock:]
+-[MTLValueTransformer .cxx_destruct]
+-[MTLValueTransformer reverseBlock]
+-[MTLValueTransformer forwardBlock]
+-[MTLValueTransformer transformedValue:success:error:]
+-[MTLValueTransformer transformedValue:]
++[MTLValueTransformer transformedValueClass]
++[MTLValueTransformer allowsReverseTransformation]
+-[MTLValueTransformer initWithForwardBlock:reverseBlock:]
++[MTLValueTransformer transformerUsingForwardBlock:reverseBlock:]
++[MTLValueTransformer transformerUsingReversibleBlock:]
++[MTLValueTransformer transformerUsingForwardBlock:]
+-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]
+__68-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]_block_invoke
+__68-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]_block_invoke.64
+__copy_helper_block_.66
+__destroy_helper_block_.67
+__68-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]_block_invoke.71
+__copy_helper_block_.74
+__destroy_helper_block_.75
+__68-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]_block_invoke.77
+__copy_helper_block_.80
+__destroy_helper_block_.81
+.str.5
+OBJC_METH_VAR_TYPE_.18
+OBJC_METH_VAR_TYPE_.34
+OBJC_METH_VAR_TYPE_.36
+OBJC_METH_VAR_TYPE_.42
+OBJC_METH_VAR_TYPE_.48
+OBJC_CLASS_NAME_.50
+OBJC_PROP_NAME_ATTR_.53
+OBJC_PROP_NAME_ATTR_.54
+OBJC_PROP_NAME_ATTR_.55
+OBJC_SELECTOR_REFERENCES_.58
+.str.63
+__block_descriptor_tmp.68
+__block_descriptor_tmp.76
+__block_descriptor_tmp.82
+OBJC_CLASS_NAME_.83
+l_OBJC_$_CATEGORY_INSTANCE_METHODS_NSValueTransformer_$_MTLInversionAdditions
+l_OBJC_$_CATEGORY_NSValueTransformer_$_MTLInversionAdditions
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/NSValueTransformer+MTLInversionAdditions.m
+-[NSValueTransformer(MTLInversionAdditions) mtl_invertedTransformer]
+.str.2
+.str.6
+.str.7
+.str.10
+toupper
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/usr/include/ctype.h
+mtl_copyPropertyAttributes
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/extobjc/EXTRuntimeExtensions.m
+mtl_executeCleanupBlock
+/Users/emiel/Projects/FlickrSearch/Carthage/Checkouts/Mantle/Mantle/extobjc/EXTScope.m
+/Users/emiel/Library/Developer/Xcode/DerivedData/Mantle-bjvcrtxhekbgwrgaveezosvqeykl/Build/Intermediates/Mantle.build/Release-iphoneos/Mantle-iOS.build/DerivedSources/Mantle_vers.c
+_ZL15__ARCLite__loadv
+_ZL58__arclite_NSMutableDictionary__setObject_forKeyedSubscriptP19NSMutableDictionaryP13objc_selectorP11objc_objectS4_
+_ZL22add_image_hook_swiftV1PK11mach_headerl
+_ZL42__arclite_NSUndoManagerProxy_isKindOfClassP11objc_objectP13objc_selectorP10objc_class
+_ZL13replaceMethodP10objc_classP13objc_selectorPFP11objc_objectS4_S2_zEPS6_
+_ZL30__arclite_NSManagedObject_initP11objc_objectP13objc_selector
+_ZL41__arclite_NSManagedObject_allocWithEntityP11objc_objectP13objc_selectorS0_
+_ZL36__arclite_NSManagedObject_allocBatchP11objc_objectP13objc_selectorPS0_S0_j
+_ZL37__arclite_NSKKMS_fastIndexForKnownKeyP11objc_objectP13objc_selectorS0_
+_ZL28__arclite_NSKKMS_indexForKeyP11objc_objectP13objc_selectorS0_
+_ZL29__arclite_NSKKsD_objectForKeyP11objc_objectP13objc_selectorS0_
+_ZL35__arclite_NSKKsD_removeObjectForKeyP11objc_objectP13objc_selectorS0_
+_ZL33__arclite_NSKKsD_setObject_forKeyP11objc_objectP13objc_selectorS0_S0_
+_ZL41__arclite_NSKKsD_addEntriesFromDictionaryP11objc_objectP13objc_selectorP12NSDictionary
+_ZL28__arclite_objc_readClassPairP10objc_classPK15objc_image_info
+_ZL32__arclite_objc_allocateClassPairP10objc_classPKcm
+_ZL32__arclite_object_getIndexedIvarsP11objc_object
+_ZL23__arclite_objc_getClassPKc
+_ZL27__arclite_objc_getMetaClassPKc
+_ZL31__arclite_objc_getRequiredClassPKc
+_ZL26__arclite_objc_lookUpClassPKc
+_ZL26__arclite_objc_getProtocolPKc
+_ZL23__arclite_class_getNameP10objc_class
+_ZL26__arclite_protocol_getNameP8Protocol
+_ZL37__arclite_objc_copyClassNamesForImagePKcPj
+_ZL17transcribeMethodsP10objc_classP15glue_class_ro_t
+_ZL19transcribeProtocolsP10objc_classP15glue_class_ro_t
+_ZL20transcribePropertiesP10objc_classP15glue_class_ro_t
+_ZL14initialize_impP11objc_objectP13objc_selector
+_ZL18allocateMaybeSwiftP18glue_swift_class_tm
+_ZL22copySwiftV1MangledNamePKcb
+_ZL13demangledNamePKcb
+_ZL16scanMangledFieldRPKcS0_S1_Ri
+_ZL30arclite_uninitialized_functionv
+_ZL12cxxConstructP11objc_object
+_ZL20fixStringForCoreDataP11objc_object
+OBJC_METACLASS_$___ARCLite__
+_ZL24OBJC_CLASS_$___ARCLite__
+_ZL31OBJC_METACLASS_RO_$___ARCLite__
+_non_lazy_classes
+_ZL27OBJC_CLASS_RO_$___ARCLite__
+_ZL11_class_name
+_ZL32OBJC_$_CLASS_METHODS___ARCLite__
+_ZL17_load_method_name
+_ZL17_load_method_type
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS___ARCLiteKeyedSubscripting__
+l_OBJC_$_PROTOCOL_METHOD_TYPES___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_LABEL_PROTOCOL_$___ARCLiteKeyedSubscripting__
+l_OBJC_PROTOCOL_REFERENCE_$___ARCLiteKeyedSubscripting__
+_ZL30NSUndoManagerProxy_targetClass
+_ZL29original_NSManagedObject_init
+_ZL40original_NSManagedObject_allocWithEntity
+_ZL35original_NSManagedObject_allocBatch
+_ZL25NSMutableDictionary_class
+.str.19
+_ZL22NSConstantString_class
+_ZL14NSString_class
+_ZL36original_NSKKMS_fastIndexForKnownKey
+_ZL27original_NSKKMS_indexForKey
+.str.26
+_ZL28original_NSKKsD_objectForKey
+_ZL34original_NSKKsD_removeObjectForKey
+_ZL32original_NSKKsD_setObject_forKey
+_ZL40original_NSKKsD_addEntriesFromDictionary
+_ZZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+_ZGVZL22add_image_hook_swiftV1PK11mach_headerlE7patches
+.str.32
+_ZL31original_objc_allocateClassPair
+_ZL31original_object_getIndexedIvars
+_ZL22original_objc_getClass
+.str.35
+_ZL26original_objc_getMetaClass
+.str.36
+_ZL30original_objc_getRequiredClass
+_ZL25original_objc_lookUpClass
+.str.38
+_ZL25original_objc_getProtocol
+.str.39
+_ZL22original_class_getName
+.str.40
+_ZL25original_protocol_getName
+.str.41
+_ZL36original_objc_copyClassNamesForImage
+.str.49
+.str.51
+_ZL12demangleLock
+_ZL9Demangled
+.str.55
+.str.56
+Apple LLVM version 7.3.0 (clang-703.0.21)
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c++ -arch arm64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -Wno-trigraphs -fno-exceptions -fno-rtti -mpascal-strings -Os -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-arc-repeated-use-of-weak -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -Wno-c++11-extensions -D NDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -Winvalid-offsetof -miphoneos-version-min=4.3 -g -fno-threadsafe-statics -Wno-sign-conversion -fembed-bitcode -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-generated-files.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-own-target-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-all-target-headers.hmap -iquote /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/arclite_iphoneos-project-headers.hmap -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts/include -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources/arm64 -I /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/DerivedSources -F/Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/Symbols/BuiltProducts -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/System/Library/PrivateFrameworks -Wall -Wextra -Wno-gcc-compat -fgnu-inline-asm -MMD -MT dependencies -MF /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.d --serialize-diagnostics /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.dia -c /Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm -o /Library/Caches/com.apple.xbs/Binaries/arclite_iOS/arclite_iOS-65~248/TempContent/Objects/arclite.build/arclite_iOS.build/Objects-normal/arm64/arclite.o -mlinker-version=264.3
+__arclite_NSKKsD_addEntriesFromDictionary
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65/source/arclite.mm
+/Library/Caches/com.apple.xbs/Sources/arclite_iOS/arclite-65
+__arclite_NSKKsD_setObject_forKey
+__arclite_NSKKsD_removeObjectForKey
+__arclite_NSKKsD_objectForKey
+__arclite_NSKKMS_indexForKey
+fixStringForCoreData
+__arclite_NSKKMS_fastIndexForKnownKey
+__arclite_NSManagedObject_allocBatch
+__arclite_NSManagedObject_allocWithEntity
+cxxConstruct
+__arclite_NSManagedObject_init
+arclite_uninitialized_function
+replaceMethod
+__arclite_NSUndoManagerProxy_isKindOfClass
+patch_lazy_pointers
+patch_t<const char **(const char *, unsigned int *)>
+__arclite_objc_copyClassNamesForImage
+patch_t<const char *(Protocol *)>
+__arclite_protocol_getName
+patch_t<const char *(Class)>
+__isctype
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/ctype.h
+isdigit
+scanMangledField
+copySwiftV1DemangledName
+demangledName
+__arclite_class_getName
+patch_t<Protocol *(const char *)>
+__arclite_objc_getProtocol
+__arclite_objc_lookUpClass
+__arclite_objc_getRequiredClass
+__arclite_objc_getMetaClass
+patch_t<Class (const char *)>
+copySwiftV1MangledName
+__arclite_objc_getClass
+patch_t<void *(id)>
+word_align
+__arclite_object_getIndexedIvars
+patch_t<Class (Class, const char *, unsigned long)>
+allocateMaybeSwift
+isSwift
+metaclass
+__arclite_objc_allocateClassPair
+patch_t<Class (Class, const objc_image_info *)>
+initialize_imp
+property_list_nth
+transcribeProperties
+transcribeProtocols
+method_list_nth
+transcribeMethods
+alignment
+max
+ivar_list_nth
+transcribeIvars
+fastFlags
+data
+ro
+__arclite_objc_readClassPair
+add_image_hook_swiftV1
+install_swiftV1
+install_ARC
+objc_collectingEnabled
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.Internal.sdk/usr/include/objc/objc-auto.h
+keyedGetter
+__arclite_NSMutableDictionary__setObject_forKeyedSubscript
+addOrReplaceMethod
+install_dict_nil_value
+install_subscripting
+install_autoreleasepool
+__ARCLite__load
