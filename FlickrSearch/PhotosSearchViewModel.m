@@ -79,8 +79,8 @@
     if (_isLoading) {
         if (completion) {
             completion(nil);
-            return;
         }
+        return;
     }
     
     if ([self.searchQuery isEqualToString:self.currentSearchQuery]) {
