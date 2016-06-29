@@ -44,7 +44,7 @@
     
     [viewModel cancelSearch];
     
-    XCTAssertEqualObjects(viewModel.searchQuery, @"", @"Should have no photos after cancellation");
+    XCTAssertEqual(viewModel.photos.count, 0, @"Should have no photos after cancellation");
 }
 
 - (void)testSearchQuery
